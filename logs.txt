@@ -1,0 +1,30 @@
+-----------------------NEW TRAINING SESSION--------------
+Episode: 100, Win Percentage: 72.0
+Episode: 200, Win Percentage: 81.25
+Episode: 300, Win Percentage: 86.5979381443299
+Episode: 400, Win Percentage: 84.375
+Episode: 500, Win Percentage: 84.6938775510204
+Episode: 600, Win Percentage: 99.0
+Episode: 700, Win Percentage: 81.44329896907216
+Episode: 800, Win Percentage: 75.26881720430107
+Episode: 900, Win Percentage: 92.70833333333334
+Final Test, Win Percentage: 80.79331941544885
+-----------------------NEW TRAINING SESSION--------------
+Episode: 100, Win Percentage: 87.87878787878788
+Episode: 200, Win Percentage: 92.0
+Episode: 300, Win Percentage: 86.0
+Episode: 400, Win Percentage: 87.75510204081633
+Episode: 500, Win Percentage: 90.81632653061224
+Episode: 600, Win Percentage: 91.75257731958763
+Episode: 700, Win Percentage: 84.6938775510204
+Episode: 800, Win Percentage: 89.79591836734694
+Episode: 900, Win Percentage: 89.8989898989899
+-----------------------NEW TRAINING SESSION--------------
+Episode: 1000, Win Percentage: 99.0
+Episode: 2000, Win Percentage: 99.0
+Episode: 3000, Win Percentage: 100.0
+Episode: 4000, Win Percentage: 100.0
+Episode: 5000, Win Percentage: 100.0
+-----------------------SWITCH TO SELF TRAINING--------------
+Episode: 6000, Win Percentage: 99.0
+Final Test, Win Percentage: 99.8
