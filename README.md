@@ -6,7 +6,8 @@ An implementation of the TD-Gammon algorithm to Checkers using TensorFlow 1.14. 
 
 This code was written on a Windows device, and thus I decided to use an older version of TensorFlow(1.14) in order to use the GPU. The easiest way to set up the environment for the code is as follows:
 
-* clone the repository into your local device
+* clone the repository into your local device (<https://github.com/HamBamLam/TD-Checkers-LiamBurke.git>)
+
 * create a suitable conda environment with Python 3.5 or 3.6, such as the example below. Note that depending on what packages you have installed, you may need to install additional packages or downgrade some packages to work with the chosen python version. I only included the packages I needed below.
 
     ```bash
